@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Antd-Table.git/static/css/main.b40d054c.chunk.css",
+    "main.js": "/Antd-Table.git/static/js/main.7d6b0218.chunk.js",
+    "main.js.map": "/Antd-Table.git/static/js/main.7d6b0218.chunk.js.map",
+    "runtime-main.js": "/Antd-Table.git/static/js/runtime-main.08dd6fd6.js",
+    "runtime-main.js.map": "/Antd-Table.git/static/js/runtime-main.08dd6fd6.js.map",
+    "static/css/2.00bb4513.chunk.css": "/Antd-Table.git/static/css/2.00bb4513.chunk.css",
+    "static/js/2.ec77a34d.chunk.js": "/Antd-Table.git/static/js/2.ec77a34d.chunk.js",
+    "static/js/2.ec77a34d.chunk.js.map": "/Antd-Table.git/static/js/2.ec77a34d.chunk.js.map",
+    "static/js/3.3893980b.chunk.js": "/Antd-Table.git/static/js/3.3893980b.chunk.js",
+    "static/js/3.3893980b.chunk.js.map": "/Antd-Table.git/static/js/3.3893980b.chunk.js.map",
+    "index.html": "/Antd-Table.git/index.html",
+    "static/css/2.00bb4513.chunk.css.map": "/Antd-Table.git/static/css/2.00bb4513.chunk.css.map",
+    "static/css/main.b40d054c.chunk.css.map": "/Antd-Table.git/static/css/main.b40d054c.chunk.css.map",
+    "static/js/2.ec77a34d.chunk.js.LICENSE.txt": "/Antd-Table.git/static/js/2.ec77a34d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08dd6fd6.js",
+    "static/css/2.00bb4513.chunk.css",
+    "static/js/2.ec77a34d.chunk.js",
+    "static/css/main.b40d054c.chunk.css",
+    "static/js/main.7d6b0218.chunk.js"
+  ]
+}
